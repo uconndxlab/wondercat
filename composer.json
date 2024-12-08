@@ -1,0 +1,44 @@
+{
+    "name": "uconndxlab/wondercat",
+    "description": "The WonderCat WordPress plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Uconndxlab\\Wondercat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brian Daley",
+            "email": "brian@uconn.edu"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/afragen/git-updater"
+        }
+    ],
+    "extra": {
+        "installer-paths": {
+            "../../plugins/{$name}/": [
+                "type:wordpress-plugin"
+            ],
+            "../../themes/{$name}/": [
+                "type:wordpress-theme"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "afragen/git-updater": "^9 || ^10",
+        "composer/installers": "^1"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
