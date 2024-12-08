@@ -23,8 +23,9 @@
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-$qid_key = 'field_66ec85b50b8f1';
-$wikidata_key = 'field_67528b4e4f253';
+const QID_FIELD = 'wikidata-qid';
+const JSON_FIELD = 'wikidata';
+
 
 if (!function_exists('log_it')) {
     function log_it($message)
@@ -61,16 +62,16 @@ function my_acf_save_post($post_id): void
 
 
     // Check if a specific value was updated.
-    if (isset($values['wikidata-qid'])) {
+    if (isset($values[QID_FIELD])) {
 
         // Get Wikidata
-        log_it($values['wikidata-qid']);
+        log_it($values[QID_FIELD]);
 
         // @url https://www.advancedcustomfields.com/resources/update_field/
-        $wikidata = fetch_wikidata($values['wikidata-qid']);
+        $wikidata = fetch_wikidata($values[QID_FIELD]);
         // log_it($wikidata);
         log_it('updating field');
-        log_it(update_field('wikidata', $wikidata));
+        log_it(update_field(JSON_FIELD, $wikidata));
     }
 }
 log_it('plugin running');
