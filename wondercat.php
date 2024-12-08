@@ -4,7 +4,7 @@
  *
  * @package       WONDERCAT
  * @author        Brian Daley
- * @version       1.0.0
+ * @version       1.0.1-beta.1
  *
  * @wordpress-plugin
  * Plugin Name:   WonderCat
