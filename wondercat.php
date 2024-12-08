@@ -2,15 +2,11 @@
 /**
  * WonderCat
  *
- * @package       WONDERCAT
- * @author        Brian Daley
- * @version       1.0.1-beta.1
- *
  * @wordpress-plugin
  * Plugin Name:   WonderCat
  * Plugin URI:    https://github.com/uconndxlab/wondercat
  * Description:   Allows clients to download WonderCat data through REST endpoints.
- * Version:       1.0.0
+ * Version:       1.0.1-beta.1
  * Author:        Brian Daley
  * Author URI:    https://dxgroup.core.uconn.edu/
  * Text Domain:   wondercat
