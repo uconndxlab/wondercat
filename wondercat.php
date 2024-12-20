@@ -6,7 +6,7 @@
  * Plugin Name:   WonderCat
  * Plugin URI:    https://github.com/uconndxlab/wondercat
  * Description:   Allows clients to download WonderCat data through REST endpoints.
- * Version:       1.0.1-beta.1
+ * Version:       1.0.1-beta.2
  * Author:        Brian Daley
  * Author URI:    https://dxgroup.core.uconn.edu/
  * Text Domain:   wondercat
@@ -36,8 +36,14 @@ if (!function_exists('log_it')) {
     }
 }
 
-add_action('acf/save_post', 'my_acf_save_post');
-function my_acf_save_post($post_id): void
+add_action('acf/save_post', 'wondercat_acf_save_post');
+
+/**
+ * @param $post_id
+ * @return void
+ * @todo This should run before the post is saved or you won't see the changes in the new editor
+ */
+function wondercat_acf_save_post($post_id): void
 {
     global $qid_key, $wikidata_key;
     log_it($post_id);
@@ -104,4 +110,57 @@ function fetch_wikidata($qid){
         log_it($response);
         return '';
     }
+}
+
+
+// Hook into the REST API response for a specific endpoint
+add_filter('rest_prepare_experience', 'wondercat_modify_json_api_response', 10, 3);
+
+/**
+ * Modify the JSON API response before it's rendered.
+ *
+ * @param WP_REST_Response $response The response object.
+ * @param WP_Post $post The post object.
+ * @param WP_REST_Request $request The request object.
+ * @return WP_REST_Response The modified response object.
+ */
+function wondercat_modify_json_api_response($response, $post, $request)
+{
+    // Get the response data
+    $data = $response->get_data();
+
+    // The wikidata is stored as a string. Convert it to JSON.
+    $data['acf'][JSON_FIELD] = json_decode($data['acf'][JSON_FIELD]);
+
+
+    // NOTE: This is probably not be the most efficient way to do this.
+    // I believe this results in redundant queries to the database.
+    $taxonomies = ['benefit', 'experience', 'technique'];
+    foreach ($taxonomies as $taxonomy) {
+        $terms = get_the_terms($post->ID, $taxonomy);
+        if (!is_wp_error($terms) && !empty($terms)) {
+            $data[$taxonomy] = [];
+            $data['acf'][$taxonomy] = [];
+            foreach ($terms as $term) {
+                $term_record = [
+                    'id' => $term->term_id,
+                    'name' => $term->name,
+                    'slug' => $term->slug,
+                    'description' => $term->description,
+                ];
+
+                // Sets the terms on the main object
+                $data[$taxonomy][] = $term_record;
+
+                // Sets the terms on the acf object (just in case)
+                $data['acf'][$taxonomy][] = $term_record;
+
+            }
+        }
+    }    
+
+    // Set the modified data back to the response
+    $response->set_data($data);
+
+    return $response;
 }
