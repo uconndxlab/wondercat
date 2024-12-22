@@ -1,4 +1,5 @@
 <?php
+
 /**
  * WonderCat
  *
@@ -14,13 +15,23 @@
  * GitHub Plugin URI: uconndxlab/wondercat
  * GitHub Plugin URI: https://github.com/uconndxlab/wondercat
  * Primary Branch: main
+ * Requires Plugin: secure-custom-fields
  */
 
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-const QID_FIELD = 'wikidata-qid';
-const JSON_FIELD = 'wikidata';
+// require_once 'vendor/autoload.php';
+
+
+
+// @todo Use this library instead github-updater dependency: https://github.com/YahnisElsts/plugin-update-checker
+// @todo Options page for WonderCat settings?: https://devs.redux.io/guides/basics/install.html
+// @toto Remove dependecy on ACF? Something like carbon fields?: https://docs.carbonfields.net/
+
+const WC_QID_FIELD = 'wikidata-qid';
+const WC_JSON_FIELD = 'wikidata';
+const WC_WIKIDATA_LAST_UPDATED = 'wikidata_last_update';
 
 
 if (!function_exists('log_it')) {
@@ -45,7 +56,6 @@ add_action('acf/save_post', 'wondercat_acf_save_post');
  */
 function wondercat_acf_save_post($post_id): void
 {
-    global $qid_key, $wikidata_key;
     log_it($post_id);
 
     do_action('qm/debug', $post_id);
@@ -64,40 +74,26 @@ function wondercat_acf_save_post($post_id): void
 
 
     // Check if a specific value was updated.
-    if (isset($values[QID_FIELD])) {
+    if (isset($values[WC_QID_FIELD])) {
 
         // Get Wikidata
-        log_it($values[QID_FIELD]);
+        log_it($values[WC_QID_FIELD]);
 
         // @url https://www.advancedcustomfields.com/resources/update_field/
-        $wikidata = fetch_wikidata($values[QID_FIELD]);
-        // log_it($wikidata);
-        log_it('updating field');
-        log_it(update_field(JSON_FIELD, $wikidata));
+        $wikidata = fetch_wikidata($values[WC_QID_FIELD]);
+        
+        if($wikidata !== false){
+            // Update the field
+            update_field(WC_JSON_FIELD, $wikidata);
+
+            update_field(WC_WIKIDATA_LAST_UPDATED, current_time(DATE_RFC822));
+        }
     }
 }
 log_it('plugin running');
 
 do_action('qm/debug', 'plugin running');
 
-
-
-// function my_plugin_enqueue_styles()
-// {
-//     global $wikidata_key;
-//     log_it('adding styles');
-//     $handle = 'wondercat-styles';
-//     wp_register_style($handle, '', array(), false);
-//     wp_add_inline_style($handle, '[data-key="' . $wikidata_key . '"]{ display: none }');
-//     // wp_add_inline_style($handle, 'body { background-color: red !important }');
-//     wp_enqueue_style($handle);
-
-//     // Load on admin side as well
-//     add_action('admin_enqueue_scripts', function () use ($handle) {
-//         wp_enqueue_style($handle);
-//     });
-// }
-// add_action('wp_enqueue_scripts', 'my_plugin_enqueue_styles');
 
 
 // @url https://developer.wordpress.org/reference/functions/wp_remote_get/
@@ -108,7 +104,7 @@ function fetch_wikidata($qid){
         return $response['body']; // use the content
     }else {
         log_it($response);
-        return '';
+        return false;
     }
 }
 
@@ -130,12 +126,13 @@ function wondercat_modify_json_api_response($response, $post, $request)
     $data = $response->get_data();
 
     // The wikidata is stored as a string. Convert it to JSON.
-    $data['acf'][JSON_FIELD] = json_decode($data['acf'][JSON_FIELD]);
+    $data['acf'][WC_JSON_FIELD] = json_decode($data['acf'][WC_JSON_FIELD]);
 
 
     // NOTE: This is probably not be the most efficient way to do this.
     // I believe this results in redundant queries to the database.
-    $taxonomies = ['benefit', 'experience', 'technique'];
+    $taxonomies = get_post_taxonomies($post);
+
     foreach ($taxonomies as $taxonomy) {
         $terms = get_the_terms($post->ID, $taxonomy);
         if (!is_wp_error($terms) && !empty($terms)) {
@@ -163,4 +160,26 @@ function wondercat_modify_json_api_response($response, $post, $request)
     $response->set_data($data);
 
     return $response;
+}
+
+// Hook into the ACF render field action for a specific textarea field
+add_action( "acf/load_field", 'set_fields_readonly');
+/**
+ * Customize the HTML output for a specific ACF textarea field to make it read-only.
+ *
+ * @param array $field The field array containing all settings.
+ */
+function set_fields_readonly($field) {
+
+    if ($field['_name'] === WC_JSON_FIELD) {
+        $field['readonly'] = 1; // Set the field to read-only
+        // $field['rows'] = 20; // rows
+    }
+
+    if ($field['_name'] === WC_WIKIDATA_LAST_UPDATED) {
+        $field['readonly'] = 1; // Set the field to read-only
+    }
+
+    return $field;
+
 }
