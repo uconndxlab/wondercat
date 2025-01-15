@@ -14,12 +14,6 @@
             "email": "brian@uconn.edu"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/afragen/git-updater"
-        }
-    ],
     "extra": {
         "installer-paths": {
             "../../plugins/{$name}/": [
@@ -33,8 +27,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "afragen/git-updater": "^9 || ^10",
-        "composer/installers": "^1"
+        "composer/installers": "^1",
+        "htmlburger/carbon-fields": "^3.6"
     },
     "config": {
         "allow-plugins": {

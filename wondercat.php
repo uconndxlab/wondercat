@@ -7,7 +7,7 @@
  * Plugin Name:   WonderCat
  * Plugin URI:    https://github.com/uconndxlab/wondercat
  * Description:   Allows clients to download WonderCat data through REST endpoints.
- * Version:       1.0.1-beta.2
+ * Version:       1.0.1-beta.3
  * Author:        Brian Daley
  * Author URI:    https://dxgroup.core.uconn.edu/
  * Text Domain:   wondercat
