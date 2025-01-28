@@ -7,7 +7,7 @@
  * Plugin Name:   WonderCat
  * Plugin URI:    https://github.com/uconndxlab/wondercat
  * Description:   Allows clients to download WonderCat data through REST endpoints.
- * Version:       1.0.1-beta.3
+ * Version:       1.0.1-rc.1
  * Author:        Brian Daley
  * Author URI:    https://dxgroup.core.uconn.edu/
  * Text Domain:   wondercat
@@ -15,7 +15,7 @@
  * GitHub Plugin URI: uconndxlab/wondercat
  * GitHub Plugin URI: https://github.com/uconndxlab/wondercat
  * Primary Branch: main
- * Requires Plugin: secure-custom-fields
+ * Requires Plugin: advanced-custom-fields
  */
 
 // Exit if accessed directly.
@@ -24,25 +24,38 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 // require_once 'vendor/autoload.php';
 
 
+define('WC_LOGFILE', plugin_dir_path(__FILE__) . 'log' . DIRECTORY_SEPARATOR . 'wondercat.log');
+
 
 // @todo Use this library instead github-updater dependency: https://github.com/YahnisElsts/plugin-update-checker
 // @todo Options page for WonderCat settings?: https://devs.redux.io/guides/basics/install.html
 // @toto Remove dependecy on ACF? Something like carbon fields?: https://docs.carbonfields.net/
+
 
 const WC_QID_FIELD = 'wikidata-qid';
 const WC_JSON_FIELD = 'wikidata';
 const WC_WIKIDATA_LAST_UPDATED = 'wikidata_last_update';
 
 
-if (!function_exists('log_it')) {
-    function log_it($message)
+// Check if ACF is active
+if ( ! class_exists('ACF') ) {
+    add_action('admin_notices', function() {
+        echo '<div class="error"><p>WonderCat requires the Advanced Custom Fields plugin to be installed and activated.</p></div>';
+    });
+    return;
+}else{
+    require plugin_dir_path(__FILE__) . 'acf' . DIRECTORY_SEPARATOR . '2025-01-27.php';
+
+}
+
+if (!function_exists('wc_log')) {
+    function wc_log($message)
     {
         if (WP_DEBUG === true) {
-            if (is_array($message) || is_object($message)) {
-                error_log(print_r($message, true));
-            } else {
-                error_log($message);
-            }
+            $logfile = WC_LOGFILE;
+            $timestamp = date("Y-m-d H:i:s");
+            $formatted_message = is_array($message) || is_object($message) ? print_r($message, true) : $message;
+            @error_log("[$timestamp] $formatted_message\n", 3, $logfile);
         }
     }
 }
@@ -56,9 +69,8 @@ add_action('acf/save_post', 'wondercat_acf_save_post');
  */
 function wondercat_acf_save_post($post_id): void
 {
-    log_it($post_id);
+    wc_log($post_id);
 
-    do_action('qm/debug', $post_id);
 
 
     // Get previous values.
@@ -69,7 +81,7 @@ function wondercat_acf_save_post($post_id): void
     // Get submitted values.
     $values = get_fields($post_id);
 
-    log_it($values);
+    wc_log($values);
 
 
 
@@ -77,7 +89,7 @@ function wondercat_acf_save_post($post_id): void
     if (isset($values[WC_QID_FIELD])) {
 
         // Get Wikidata
-        log_it($values[WC_QID_FIELD]);
+        wc_log($values[WC_QID_FIELD]);
 
         // @url https://www.advancedcustomfields.com/resources/update_field/
         $wikidata = fetch_wikidata($values[WC_QID_FIELD]);
@@ -90,9 +102,8 @@ function wondercat_acf_save_post($post_id): void
         }
     }
 }
-log_it('plugin running');
+wc_log('plugin running');
 
-do_action('qm/debug', 'plugin running');
 
 
 
@@ -103,14 +114,14 @@ function fetch_wikidata($qid){
     if (is_array($response) && ! is_wp_error($response)) {
         return $response['body']; // use the content
     }else {
-        log_it($response);
+        wc_log($response);
         return false;
     }
 }
 
 
 // Hook into the REST API response for a specific endpoint
-add_filter('rest_prepare_experience', 'wondercat_modify_json_api_response', 10, 3);
+add_filter('rest_prepare_user_experience', 'wondercat_modify_json_api_response', 10, 3);
 
 /**
  * Modify the JSON API response before it's rendered.
@@ -183,3 +194,46 @@ function set_fields_readonly($field) {
     return $field;
 
 }
+
+
+add_action('init', 'wondercat_add_terms_from_json');
+
+// Add terms from JSON file on plugin activation
+function wondercat_add_terms_from_json() {
+
+    wc_log('Adding terms from JSON files');
+
+    $json_files = [
+        'technology',
+        'experience',
+        'benefits'
+    ];
+
+    foreach($json_files as $json_file){
+        $json_file = plugin_dir_path(__FILE__) . 'terms' . DIRECTORY_SEPARATOR . $json_file . '.json';
+        if (file_exists($json_file)) {
+            $json_data = file_get_contents($json_file);
+            $terms = json_decode($json_data, true);
+
+            if (is_array($terms)) {
+                foreach ($terms as $term) {
+                    if (!term_exists($term['name'], $term['taxonomy'])) {
+                        wc_log('Adding term: ' . $term['name'] . ' in ' . $term['taxonomy']);
+                        wp_insert_term(
+                            $term['name'],
+                            $term['taxonomy'],
+                            [
+                                'description' => $term['description'],
+                                'slug' => $term['slug']
+                            ]
+                        );
+                    }
+                }
+            }
+        }else{
+            wc_log('File not found: ' . $json_file);
+        }
+
+    }
+}
+

@@ -1,0 +1,1922 @@
+[
+    {
+        "id": 82,
+        "count": 7,
+        "description": "The ability to transfer the emotional bond from a person who has died onto their memory\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/acceptance-of-loss\/",
+        "name": "Acceptance of Loss",
+        "slug": "acceptance-of-loss",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/82"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=82"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 83,
+        "count": 14,
+        "description": "Distrusting yourself. Alientation is the inverse of paranoia, which involves distrusting someone or something outside of yourself.\r\n\r\nAlso called: Distrust\r\n\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/alienation\/",
+        "name": "Alienation",
+        "slug": "alienation",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/83"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=83"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "count": 5,
+        "description": "The feeling admiration or astonishment (wonder) mixed with fear or respect, often inspired by something that seems powerful",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/awe\/",
+        "name": "Awe",
+        "slug": "awe",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/6"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=6"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "count": 6,
+        "description": "The emotion associated with discovering that one's prediction was wrong.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/being-wrong\/",
+        "name": "Being Wrong",
+        "slug": "being-wrong",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=33"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 84,
+        "count": 0,
+        "description": "The experience of purging strong emotions. Clearing or purifying by getting rid of unhealthy tension.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/catharsis\/",
+        "name": "Catharsis",
+        "slug": "catharsis",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/84"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=84"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "count": 2,
+        "description": "The feeling of being bewildered or unclear\r\n\r\nAlso called: Bewilderment, Perplexity",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/confusion\/",
+        "name": "Confusion",
+        "slug": "confusion",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/21"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=21"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "count": 8,
+        "description": "Feeling linked or bonded to others.\r\n\r\nAlso called: Community\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/connection\/",
+        "name": "Connection",
+        "slug": "connection",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/19"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=19"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "count": 9,
+        "description": "The feeling of being genuinely afraid of something and simultaneously bold enough to face it.\r\n\r\nAlso called: Bravery",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/courage\/",
+        "name": "Courage",
+        "slug": "courage",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/22"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=22"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "count": 12,
+        "description": "When we feel we have some idea about an answer, but are unconfident about what that answer is. The active form of wonder. Where the first form of wonder is passive (essentially pausing in astonishment as a miracle washes over you), curiosity is active.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/curiosity\/",
+        "name": "Curiosity",
+        "slug": "curiosity",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/4"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=4"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 86,
+        "count": 1,
+        "description": "Sense of detachment from what is happening\r\n\r\nAlso called: Resignation",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/dissociation\/",
+        "name": "Dissociation",
+        "slug": "dissociation",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/86"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=86"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "count": 1,
+        "description": "Anxiety or mental suffering that you have not chosen\r\n\r\nAlso called: Stress, Anxiety",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/distress\/",
+        "name": "Distress",
+        "slug": "distress",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=37"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 87,
+        "count": 1,
+        "description": "Sharing a conflict faced by a character through the perspective of a character you already identify with",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/double-identification\/",
+        "name": "Double Identification",
+        "slug": "double-identification",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/87"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=87"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "count": 13,
+        "description": "The feeling of understanding another person's actions. You may not condone the actions or identify with the person, but you accept that their actions weren't wrong",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/empathy\/",
+        "name": "Empathy",
+        "slug": "empathy",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=23"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 88,
+        "count": 2,
+        "description": "The feeling of knowing and claiming your rights. You feel that you have the freedom and power to control what happens to you.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/empowerment\/",
+        "name": "Empowerment",
+        "slug": "empowerment",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/88"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=88"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 89,
+        "count": 1,
+        "description": "Stress that you have chosen",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/eustress\/",
+        "name": "Eustress",
+        "slug": "eustress",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/89"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=89"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 90,
+        "count": 1,
+        "description": "Despair in the face of a meaningless universe.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/existential-nausea\/",
+        "name": "Existential Nausea",
+        "slug": "existential-nausea",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/90"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=90"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "count": 0,
+        "description": "An emotional response to the perceived resistance to the fulfillment of an individual's will or goal. Frustration is likely to increase when a will or goal is denied or blocked.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/frustration\/",
+        "name": "Frustration",
+        "slug": "frustration",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/24"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=24"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 93,
+        "count": 6,
+        "description": "Loving others for who they are, not for who we want them to be.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/generous-love\/",
+        "name": "Generous Love",
+        "slug": "generous-love",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/93"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=93"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 91,
+        "count": 12,
+        "description": "Satisfaction that a character you identify with gets what they want",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/gratification\/",
+        "name": "Gratification",
+        "slug": "gratification",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/91"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=91"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 92,
+        "count": 9,
+        "description": "Recognizing, in a character's experience, a conflict that you have experienced ",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/identification\/",
+        "name": "Identification",
+        "slug": "identification",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/92"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=92"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "count": 2,
+        "description": "Absorbing or engrossing involvement in a story. You might feel as though you've been swallowed by the story.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/immersion\/",
+        "name": "Immersion",
+        "slug": "immersion",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/30"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=30"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "count": 17,
+        "description": "Affection, attraction, and emotional attachment",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/love\/",
+        "name": "Love",
+        "slug": "love",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/26"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=26"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 95,
+        "count": 8,
+        "description": "Having thoughts unrelated to a specific task",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/mind-wandering\/",
+        "name": "Mind Wandering",
+        "slug": "mind-wandering",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/95"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=95"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 96,
+        "count": 3,
+        "description": "A clear sense of what is right and what is wrong",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/moral-omniscience\/",
+        "name": "Moral Omniscience",
+        "slug": "moral-omniscience",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/96"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=96"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 97,
+        "count": 1,
+        "description": "The feeling that you are prepared to handle a variety of situations\r\n\r\nAlso called: Agility, Flexibility, Preparedness\r\n\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/nimbleness\/",
+        "name": "Nimbleness",
+        "slug": "nimbleness",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/97"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=97"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "count": 4,
+        "description": "The belief the positive outcomes are more likely than negative ones",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/optimism\/",
+        "name": "Optimism",
+        "slug": "optimism",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/35"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=35"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "count": 11,
+        "description": "A feeling of threat triggered by environmental irregularities",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/paranoia\/",
+        "name": "Paranoia",
+        "slug": "paranoia",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/27"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=27"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 98,
+        "count": 3,
+        "description": "Realizing that there are things you could do to improve as a person",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/ready-to-grow\/",
+        "name": "Ready to Grow",
+        "slug": "ready-to-grow",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/98"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=98"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 99,
+        "count": 9,
+        "description": "Learning something you have learned in the past and partially forgotten",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/relearning\/",
+        "name": "Relearning",
+        "slug": "relearning",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/99"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=99"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 100,
+        "count": 2,
+        "description": "Feeling comfortable enough to experience emotions after feeling numb to emotions because of traumatic experiences",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/released-emotion-brake\/",
+        "name": "Released Emotion Brake",
+        "slug": "released-emotion-brake",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/100"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=100"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 101,
+        "count": 0,
+        "description": "The easing of distress",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/relief\/",
+        "name": "Relief",
+        "slug": "relief",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/101"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=101"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 102,
+        "count": 2,
+        "description": "Relief from the negative feelings you experience when you fail (self-loathing, self-hatred, rumination, etc.)",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/resilience\/",
+        "name": "Resilience",
+        "slug": "resilience",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/102"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=102"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 103,
+        "count": 5,
+        "description": "Resentful anger aroused by an act that you believe is immoral.\r\n\r\nAlso called: Outrage",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/righteousness\/",
+        "name": "Righteousness",
+        "slug": "righteousness",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/103"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=103"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 104,
+        "count": 0,
+        "description": "Resentful anger aroused by an act that you believe is immoral and has been harmful to you",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/righteousness-plus-identification\/",
+        "name": "Righteousness + Identification",
+        "slug": "righteousness-plus-identification",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/104"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=104"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 105,
+        "count": 10,
+        "description": "Accepting yourself without shame or disgust\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/self-acceptance\/",
+        "name": "Self-Acceptance",
+        "slug": "self-acceptance",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/105"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=105"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 107,
+        "count": 1,
+        "description": "The belief that you are capable of accomplishing a specific goal",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/self-efficacy\/",
+        "name": "Self-Efficacy",
+        "slug": "self-efficacy",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/107"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=107"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "count": 11,
+        "description": "Recognizing that you resemble a character being satirized in a story. Because you recognize that you are not perfect, you are able to laugh at yourself.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/self-irony\/",
+        "name": "Self-Irony",
+        "slug": "self-irony",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/10"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=10"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 106,
+        "count": 2,
+        "description": "Affection for your own nature, flaws and all.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/self-love\/",
+        "name": "Self-Love",
+        "slug": "self-love",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/106"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=106"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 108,
+        "count": 2,
+        "description": "Believing that you can rely on your own abilities to navigate the world",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/self-trust\/",
+        "name": "Self-Trust",
+        "slug": "self-trust",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/108"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=108"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "count": 1,
+        "description": "A doubting or questioning state of mind",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/skepticism\/",
+        "name": "Skepticism",
+        "slug": "skepticism",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=40"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "count": 1,
+        "description": "Spirits raised without intoxication",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/sober-uplift\/",
+        "name": "Sober Uplift",
+        "slug": "sober-uplift",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/32"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=32"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "count": 4,
+        "description": "An elevated view (God's-Eye view) of a situation",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/superiority\/",
+        "name": "Superiority",
+        "slug": "superiority",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/28"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=28"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 94,
+        "count": 6,
+        "description": "Being unsure how to evaluate something that is unfamiliar",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/suspended-judgment\/",
+        "name": "Suspended Judgment",
+        "slug": "suspended-judgment",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/94"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=94"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 109,
+        "count": 16,
+        "description": "The state of imagining possibilities that do not exist",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/thinking-what-if\/",
+        "name": "Thinking \"What If?\"",
+        "slug": "thinking-what-if",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/109"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=109"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 110,
+        "count": 1,
+        "description": "A feeling of being united in understanding with other people \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/togetherness\/",
+        "name": "Togetherness",
+        "slug": "togetherness",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/110"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=110"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 111,
+        "count": 7,
+        "description": "a peaceful calm state, without worry",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/tranquility\/",
+        "name": "Tranquility",
+        "slug": "tranquility",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/111"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=111"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "count": 3,
+        "description": "An uplifting emotional experience of discovery. As Fletcher puts it, wonder is \u201clife through the eyes of a child\" (16). It is like pausing in astonishment as a miracle washes over you (Fletcher 84).",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/wonder\/",
+        "name": "Wonder",
+        "slug": "wonder",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/29"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=29"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "count": 1,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/experience\/xxx-i-need-to-enter-something-new\/",
+        "name": "xxx-I need to enter something new",
+        "slug": "xxx-i-need-to-enter-something-new",
+        "taxonomy": "experience",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience\/12"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/experience"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/experience"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?experience=12"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

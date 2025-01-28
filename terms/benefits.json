@@ -1,0 +1,1322 @@
+[
+    {
+        "id": 67,
+        "count": 4,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/anxiety\/",
+        "name": "Anxiety",
+        "slug": "anxiety",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/67"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=67"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 178,
+        "count": 3,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/belief\/",
+        "name": "Belief",
+        "slug": "belief",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/178"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=178"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 179,
+        "count": 6,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/bias-reduction\/",
+        "name": "Bias Reduction",
+        "slug": "bias-reduction",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/179"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=179"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 71,
+        "count": 2,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/catastrophizing\/",
+        "name": "Catastrophizing",
+        "slug": "catastrophizing",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/71"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=71"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 75,
+        "count": 4,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/cognitive-flexibility\/",
+        "name": "Cognitive Flexibility",
+        "slug": "cognitive-flexibility",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/75"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=75"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "count": 6,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/community\/",
+        "name": "Community",
+        "slug": "community",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/63"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=63"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 180,
+        "count": 18,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/connection\/",
+        "name": "Connection",
+        "slug": "connection",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/180"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=180"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 181,
+        "count": 9,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/creative-breakthrough\/",
+        "name": "Creative Breakthrough",
+        "slug": "creative-breakthrough",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/181"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=181"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 182,
+        "count": 8,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/creativity\/",
+        "name": "Creativity",
+        "slug": "creativity",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/182"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=182"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 183,
+        "count": 1,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/detached-self-awareness\/",
+        "name": "Detached Self-Awareness",
+        "slug": "detached-self-awareness",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/183"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=183"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 184,
+        "count": 4,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/empowerment\/",
+        "name": "Empowerment",
+        "slug": "empowerment",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/184"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=184"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 185,
+        "count": 10,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/expanded-inner-list-of-cultural-norms\/",
+        "name": "Expanded Inner List of Cultural Norms",
+        "slug": "expanded-inner-list-of-cultural-norms",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/185"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=185"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 69,
+        "count": 2,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/faith\/",
+        "name": "Faith",
+        "slug": "faith",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/69"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=69"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "count": 13,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/forgiveness\/",
+        "name": "Forgiveness",
+        "slug": "forgiveness",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/64"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=64"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "count": 1,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/generosity\/",
+        "name": "Generosity",
+        "slug": "generosity",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/61"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=61"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 76,
+        "count": 3,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/gratitude\/",
+        "name": "Gratitude",
+        "slug": "gratitude",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/76"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=76"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 186,
+        "count": 2,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/gratitude-without-inferiority\/",
+        "name": "Gratitude without Inferiority",
+        "slug": "gratitude-without-inferiority",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/186"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=186"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 187,
+        "count": 4,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/healing\/",
+        "name": "Healing",
+        "slug": "healing",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/187"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=187"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 188,
+        "count": 7,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/healthy-grief\/",
+        "name": "Healthy Grief",
+        "slug": "healthy-grief",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/188"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=188"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 189,
+        "count": 6,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/humility-about-ones-ideas\/",
+        "name": "Humility about One's Ideas",
+        "slug": "humility-about-ones-ideas",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/189"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=189"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 190,
+        "count": 1,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/humility-about-ones-nature\/",
+        "name": "Humility about One's Nature",
+        "slug": "humility-about-ones-nature",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/190"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=190"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 191,
+        "count": 16,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/innovative-thinking\/",
+        "name": "Innovative Thinking",
+        "slug": "innovative-thinking",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/191"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=191"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "count": 18,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/intimacy\/",
+        "name": "Intimacy",
+        "slug": "intimacy",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/65"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=65"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 78,
+        "count": 5,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/obedience\/",
+        "name": "Obedience",
+        "slug": "obedience",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/78"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=78"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 192,
+        "count": 19,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/peace-of-mind\/",
+        "name": "Peace of Mind",
+        "slug": "peace-of-mind",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/192"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=192"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 196,
+        "count": 12,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/purpose\/",
+        "name": "Purpose",
+        "slug": "purpose",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/196"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=196"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 193,
+        "count": 7,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/realistic-appreciation-of-love\/",
+        "name": "Realistic Appreciation of Love",
+        "slug": "realistic-appreciation-of-love",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/193"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=193"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 72,
+        "count": 5,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/resilience\/",
+        "name": "Resilience",
+        "slug": "resilience",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/72"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=72"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 194,
+        "count": 13,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/self-scrutiny\/",
+        "name": "Self-Scrutiny",
+        "slug": "self-scrutiny",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/194"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=194"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "count": 9,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/tend-and-befriend\/",
+        "name": "Tend and Befriend",
+        "slug": "tend-and-befriend",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/62"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=62"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 195,
+        "count": 11,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/unrealistic-romantic-expectations\/",
+        "name": "Unrealistic Romantic Expectations",
+        "slug": "unrealistic-romantic-expectations",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/195"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=195"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "count": 12,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/vigilance\/",
+        "name": "Vigilance",
+        "slug": "vigilance",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/68"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=68"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "count": 1,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/benefit\/xxx-i-need-to-enter-something-new\/",
+        "name": "xxx-I need to enter something new",
+        "slug": "xxx-i-need-to-enter-something-new",
+        "taxonomy": "benefit",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit\/15"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/benefit"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/benefit"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?benefit=15"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

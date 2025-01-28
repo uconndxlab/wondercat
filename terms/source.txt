@@ -1,0 +1,9 @@
+# Benefits
+https://env-1120817.us.reclaim.cloud/wp-json/wp/v2/benefit?per_page=100
+
+
+# Experience
+https://env-1120817.us.reclaim.cloud/wp-json/wp/v2/experience?per_page=100
+
+# Technology
+https://env-1120817.us.reclaim.cloud/wp-json/wp/v2/technology?per_page=100

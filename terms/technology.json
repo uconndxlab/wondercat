@@ -1,0 +1,2762 @@
+[
+    {
+        "id": 112,
+        "count": 14,
+        "description": "The combination of the secret discloser (a narrative technology in which a narrator shares an intimate secret about a character) with wish fulfillment (a plot technology that shows a character getting everything they want) \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/almighty-heart\/",
+        "name": "Almighty Heart",
+        "slug": "almighty-heart",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/112"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=112"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 113,
+        "count": 1,
+        "description": "The combination of the secret discloser (a narrative technology in which a narrator shares an intimate secret about a character) with wish fulfillment (a plot technology that shows a character getting everything they want) and a narrator who gently mocks some or all characters\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/almighty-heart-plus-satiric-narration\/",
+        "name": "Almighty Heart + Satiric Narration",
+        "slug": "almighty-heart-plus-satiric-narration",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/113"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=113"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 114,
+        "count": 1,
+        "description": "The combination of the secret discloser (a narrative technology in which a narrator shares an intimate secret about a character) with wish fulfillment (a plot technology that shows a character getting everything they want) and soliloquy (a character who reveals a conflict that you have experienced, prompting identification)\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/almighty-heart-plus-soliloquy\/",
+        "name": "Almighty Heart + Soliloquy",
+        "slug": "almighty-heart-plus-soliloquy",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/114"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=114"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 115,
+        "count": 8,
+        "description": "A narrative technology that links nonsensical or absurd ideas together with poetic patterns like rhyme or meter.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/anarchy-rhymer\/",
+        "name": "Anarchy Rhymer",
+        "slug": "anarchy-rhymer",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/115"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=115"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 116,
+        "count": 2,
+        "description": "An expression of regret for wrong actions; a recognition of the harm done",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/apology\/",
+        "name": "Apology",
+        "slug": "apology",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/116"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=116"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 117,
+        "count": 0,
+        "description": "Purging something unhealthy. As theorized by Aristotle, the unhealthy thing was fear. \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/catharsis\/",
+        "name": "Catharsis",
+        "slug": "catharsis",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/117"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=117"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 118,
+        "count": 1,
+        "description": "A life story that presents an existential journey (from the past) and a way of understanding it (from the time of writing) without suggesting that it will be the way to make meaning of other existential journeys.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/choose-your-own-accomplice\/",
+        "name": "Choose Your Own Accomplice",
+        "slug": "choose-your-own-accomplice",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/118"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=118"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 119,
+        "count": 5,
+        "description": "Any moment where an actor breaks the stage's fourth wall to assure us: \"None of this is really real\"",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/comic-wink\/",
+        "name": "Comic Wink",
+        "slug": "comic-wink",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/119"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=119"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 120,
+        "count": 5,
+        "description": "When a story has a narrator who winks at the viewer\/reader to indicate \"this isn't real\" but presents an alternate reality in the form of an absurd or unrealistic plot, character, or storyworld.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/comic-wink-plus-reality-shifter\/",
+        "name": "Comic Wink + Reality Shifter",
+        "slug": "comic-wink-plus-reality-shifter",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/120"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=120"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 198,
+        "count": 1,
+        "description": "When a narrator explains their discovery that they were ignorant to a truth they now see",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/conversion-narrative\/",
+        "name": "Conversion Narrative",
+        "slug": "conversion-narrative",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/198"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=198"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 121,
+        "count": 1,
+        "description": "Two or more narrators who disagree in their evaluation of the storyworld and characters they convey \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/disagreeing-narrators\/",
+        "name": "Disagreeing Narrators",
+        "slug": "disagreeing-narrators",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/121"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=121"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 122,
+        "count": 4,
+        "description": "A narration technology that shows a narrator making mistakes in judgment while encountering a new culture, but then struggling to decide which culture is best (the familiar becomes somewhat unacceptable and the unfamiliar becomes only somewhat acceptable).\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/double-alien\/",
+        "name": "Double Alien",
+        "slug": "double-alien",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/122"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=122"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 123,
+        "count": 5,
+        "description": "A narrative that moves between two different worlds, not settling with any certainty which is the \"real\" world.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/dream-of-the-world\/",
+        "name": "Dream of the World",
+        "slug": "dream-of-the-world",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/123"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=123"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 124,
+        "count": 7,
+        "description": "Allowing the audience to experience the true remorse of a character",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/empathy-generator\/",
+        "name": "Empathy Generator",
+        "slug": "empathy-generator",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/124"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=124"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 199,
+        "count": 1,
+        "description": "A plot element that is an impossibility",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/enigma\/",
+        "name": "Enigma",
+        "slug": "enigma",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/199"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=199"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 125,
+        "count": 2,
+        "description": "A simile that takes a non-human thing (an animal, a plant, etc.) and offers it as a metaphor for the human experience.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/epic-simile\/",
+        "name": "Epic Simile",
+        "slug": "epic-simile",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/125"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=125"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 126,
+        "count": 4,
+        "description": "A love triangle in which neither choice is obviously wrong. Unlike a regular love triange, where one choice is clearly right (or seems right until new information is revealed), this love triangle presents a world in which there is not only one choice for love.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/equilateral-love-triangle\/",
+        "name": "Equilateral Love Triange",
+        "slug": "equilateral-love-triangle",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/126"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=126"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 127,
+        "count": 6,
+        "description": "A narrator who can ventriloquize a character (often ironically), speaking as them instead of conveying what they actually said with direct quotation.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/free-indirect-discourse\/",
+        "name": "Free Indirect Discourse",
+        "slug": "free-indirect-discourse",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/127"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=127"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 128,
+        "count": 5,
+        "description": "A narrative technology that expresses the power and knowledge of a divine being and the knowledge of subjective human experience. Seen in scripture\u2014\u201cforceful, austere, and unequivocal.\u201d \u201cIt allows anyone with a pen to sound like a deity,\u201d making it possible to \u201ctouch the minds of audiences with two powerful emotions: wonder and fear\" (Fletcher 34). \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/god-voice\/",
+        "name": "God Voice",
+        "slug": "god-voice",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/128"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=128"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 129,
+        "count": 2,
+        "description": "A narrative technology that expresses gratefulness for a world creator and stretches that into a spiritual gratitude for everything that we see\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/gratitude-booster\/",
+        "name": "Gratitude Booster",
+        "slug": "gratitude-booster",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/129"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=129"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 130,
+        "count": 1,
+        "description": "A plot technology that \"abandons the usual forward momentum of plots in favor of a drifting, eddying, dilating story that provides us with time to acknowledge our heartache and dwell upon memories of our loved ones lost\" (Fletcher 138).",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/grief-releaser\/",
+        "name": "Grief Releaser",
+        "slug": "grief-releaser",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/130"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=130"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 131,
+        "count": 1,
+        "description": "A character who is frustrated with clich\u00e9d performances of grief and insists on truly honoring the life of the departed (Fletcher 138).\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/guilt-lifter\/",
+        "name": "Guilt Lifter",
+        "slug": "guilt-lifter",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/131"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=131"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 132,
+        "count": 4,
+        "description": "A situation in which a character is not guilty of a moral crime, but has instead made \"a mistake of perception, like a misheard word or a moment of blurred vision\" (Fletcher 67)\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/hamartia\/",
+        "name": "Hamartia",
+        "slug": "hamartia",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/132"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=132"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 133,
+        "count": 7,
+        "description": "A narrative technology that expresses the power and knowledge of a divine being and the knowledge of subjective human experience. ",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/human-god-voice\/",
+        "name": "Human God Voice",
+        "slug": "human-god-voice",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/133"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=133"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 134,
+        "count": 1,
+        "description": "A plot technology in which a character suffers a trauma but doesn't acknowledge it until later. This places us, the audience, in the position of knowing the trauma before it's felt by the character. \r\n\r\nIdentified as Anagnorisis by Aristotle in Poetics 1452a\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/hurt-delay\/",
+        "name": "Hurt Delay",
+        "slug": "hurt-delay",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/134"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=134"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 135,
+        "count": 11,
+        "description": "A narrator who speaks in the first person",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/i-voice\/",
+        "name": "I Voice",
+        "slug": "i-voice",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/135"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=135"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 136,
+        "count": 2,
+        "description": "A narration technology that implies an insult but does not make it directly",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/insinuation\/",
+        "name": "Insinuation",
+        "slug": "insinuation",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/136"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=136"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 137,
+        "count": 10,
+        "description": "Revealing a truth that a character (and also the reader) doesn't see\" or revealing that a character doesn't see something that the reader can see (while nudging readers to notice what they are missing in their own lives)",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/irony\/",
+        "name": "Irony",
+        "slug": "irony",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/137"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=137"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 138,
+        "count": 3,
+        "description": "A narration technology that combines past-tense self-love and present tense self-irony",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/life-evolver\/",
+        "name": "Life Evolver",
+        "slug": "life-evolver",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/138"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=138"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 139,
+        "count": 2,
+        "description": "A rhetorical technology in which a speaker (perhaps a narrator, if this occurs within a story) works methodically toward an argument, providing evidence for claims presented.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/logic\/",
+        "name": "Logic",
+        "slug": "logic",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/139"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=139"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 140,
+        "count": 4,
+        "description": "A plot technology that arbitrarily assigns good outcomes to characters\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/lucky-twist\/",
+        "name": "Lucky Twist",
+        "slug": "lucky-twist",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/140"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=140"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 141,
+        "count": 1,
+        "description": "A narration technology that draws attention to the fact that the story being conveyed is a horror story, complete with all of the typical features present in the genre",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/meta-horror\/",
+        "name": "Meta-Horror",
+        "slug": "meta-horror",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/141"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=141"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 142,
+        "count": 1,
+        "description": "An appeal to morality in order to influence or change behavior",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/moral-suasion\/",
+        "name": "Moral Suasion",
+        "slug": "moral-suasion",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/142"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=142"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 143,
+        "count": 1,
+        "description": "A story that holds no stable meaning and would prompt confusion unless the viewer or reader supplies their own beliefs to make sense of it.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/narrative-without-core-values\/",
+        "name": "Narrative without Core Values",
+        "slug": "narrative-without-core-values",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/143"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=143"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 144,
+        "count": 1,
+        "description": "Constructing a story in which characters display many emotions, perhaps unpredictably, encouraging the viewers or readers to observe and recognize the emotions they are experiencing.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/opportunity-to-observe\/",
+        "name": "Opportunity to Observe",
+        "slug": "opportunity-to-observe",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/144"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=144"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 177,
+        "count": 2,
+        "description": "Constructing a story in which characters display many emotions, perhaps unpredictably, encouraging the viewers or readers to observe and recognize the emotions they are experiencing and then giving that story an ending that generates positive emotions\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/opportunity-to-observe-plus-pivot-into-positive-emotion\/",
+        "name": "Opportunity to Observe + Pivot into Positive Emotion",
+        "slug": "opportunity-to-observe-plus-pivot-into-positive-emotion",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/177"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=177"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 145,
+        "count": 0,
+        "description": "A simple story illustrating a moral or religious lesson\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/parable\/",
+        "name": "Parable",
+        "slug": "parable",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/145"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=145"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 146,
+        "count": 2,
+        "description": "A narration technology of exaggerated imitation",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/parody\/",
+        "name": "Parody",
+        "slug": "parody",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/146"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=146"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 147,
+        "count": 3,
+        "description": "Dissonance that isn't resolved into full harmony\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/partial-dopamine\/",
+        "name": "Partial Dopamine",
+        "slug": "partial-dopamine",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/147"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=147"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 148,
+        "count": 1,
+        "description": "Dissonance that isn't resolved into full harmony narrated by a child",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/partial-dopamine-plus-perspective-of-a-child\/",
+        "name": "Partial Dopamine + Perspective of a Child",
+        "slug": "partial-dopamine-plus-perspective-of-a-child",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/148"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=148"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 149,
+        "count": 1,
+        "description": "Any plot decision designed to generate positive emotions in viewers. ",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/pivot-into-positive-emotion\/",
+        "name": "Pivot into Positive Emotion",
+        "slug": "pivot-into-positive-emotion",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/149"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=149"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 150,
+        "count": 1,
+        "description": "\"The plot twist isn't a twist. It's the final link in a chain of untwisted events, where each link connects smoothly with the one before, carrying the story forward without bends or breaks. Yet even though the chain of the story is arrow straight, its final link is so stunning that it feels like a swerve. It overthrows all precedent, delivering us to a destination unexpected\" (Fletcher 16).\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/plot-twist\/",
+        "name": "Plot Twist",
+        "slug": "plot-twist",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/150"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=150"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 151,
+        "count": 7,
+        "description": "Rearranging our collective memory to help us relearn where we came from\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/poetic-history\/",
+        "name": "Poetic History",
+        "slug": "poetic-history",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/151"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=151"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 152,
+        "count": 3,
+        "description": "A plot technology of having good things happen to \"good\" people and bad things happen to \"bad\" people",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/poetic-justice\/",
+        "name": "Poetic Justice",
+        "slug": "poetic-justice",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/152"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=152"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 153,
+        "count": 1,
+        "description": "Rearranges usual speech so that we slow down and notice things we wouldn't notice otherwise\r\n\r\nAlso called: Poetic Diction",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/poetic-language\/",
+        "name": "Poetic Language",
+        "slug": "poetic-language",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/153"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=153"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 154,
+        "count": 1,
+        "description": "Rearranging a single element of a familiar story to help us see it afresh",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/poetic-narrative\/",
+        "name": "Poetic Narrative",
+        "slug": "poetic-narrative",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/154"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=154"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 155,
+        "count": 6,
+        "description": "Presenting an alternate reality in the form of an absurd or unrealistic plot, character, or storyworld.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/reality-shifter\/",
+        "name": "Reality Shifter",
+        "slug": "reality-shifter",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/155"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=155"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 156,
+        "count": 6,
+        "description": "a narration technology that guides the reader to make an errant hypothesis that is then debunked",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/red-herring\/",
+        "name": "Red Herring",
+        "slug": "red-herring",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/156"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=156"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 157,
+        "count": 4,
+        "description": "A plot technology that shows a character developing an elaborate punishment for a character who harmed a loved one.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/revenge-plot\/",
+        "name": "Revenge Plot",
+        "slug": "revenge-plot",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/157"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=157"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 158,
+        "count": 0,
+        "description": "A plot technology that shows a character developing an elaborate punishment for a character who harmed a loved one combined with a narration technology that allows readers or spectators to hear or read the inner conflict of the avenger.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/revenge-plot-plus-soliloquy\/",
+        "name": "Revenge Plot + Soliloquy",
+        "slug": "revenge-plot-plus-soliloquy",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/158"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=158"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 159,
+        "count": 13,
+        "description": "A narration technology that revisits something previously narrated to challenge its truth value",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/second-look\/",
+        "name": "Second Look",
+        "slug": "second-look",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/159"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=159"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 160,
+        "count": 4,
+        "description": "Dissonance before resolution\r\n\r\nAs theorized by Monteverdi, seconda practica\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/second-method\/",
+        "name": "Second Method",
+        "slug": "second-method",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/160"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=160"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 161,
+        "count": 3,
+        "description": "A technology in which a narrator shares an intimate secret about a character. Sometimes the narrator is revealing their own secret and sometime another character's secret. \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/secret-discloser\/",
+        "name": "Secret Discloser",
+        "slug": "secret-discloser",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/161"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=161"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 162,
+        "count": 1,
+        "description": "Any statement that supports our self, including a statement made by another person. \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/self-affirmation\/",
+        "name": "Self-Affirmation",
+        "slug": "self-affirmation",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/162"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=162"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 163,
+        "count": 1,
+        "description": "A narration technology that prompts the reader to speak self-affirmations to themselves\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/self-self-affirmation\/",
+        "name": "Self-Self-Affirmation",
+        "slug": "self-self-affirmation",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/163"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=163"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 164,
+        "count": 1,
+        "description": "A narration technology that presents a variety of cultural norms in a non-judgmental way, encouraging us to love and feel empathy for these characters",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/shame-reducer\/",
+        "name": "Shame Reducer",
+        "slug": "shame-reducer",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/164"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=164"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 165,
+        "count": 5,
+        "description": "A narration technology that allows spectators or readers to hear or read the inner conflict of an individual character.\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/soliloquy\/",
+        "name": "Soliloquy",
+        "slug": "soliloquy",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/165"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=165"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 166,
+        "count": 5,
+        "description": "A narration technology that allows readers to experience the inner conflict of (and therefore identify with) an individual character and then experience another character's conflict through that perspective.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/soliloquy-in-a-soliloquy\/",
+        "name": "Soliloquy in a Soliloquy",
+        "slug": "soliloquy-in-a-soliloquy",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/166"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=166"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 167,
+        "count": 5,
+        "description": "Grief Releaser (stalled plot) + Guilt Lifter (uniquely grieving character)\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/sorrow-resolver\/",
+        "name": "Sorrow Resolver",
+        "slug": "sorrow-resolver",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/167"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=167"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 168,
+        "count": 3,
+        "description": "A narration technology in which the character of one story becomes the narrator of another story\r\n\r\nAlso called: embedded narrative, story within a story, frame story, meta-story, mise en abyme\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/story-in-the-story\/",
+        "name": "Story in the Story",
+        "slug": "story-in-the-story",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/168"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=168"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 169,
+        "count": 9,
+        "description": "A narration technology that allows the reader to witness the free flow of characters' inner thoughts\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/stream-of-consciousness\/",
+        "name": "Stream of Consciousness",
+        "slug": "stream-of-consciousness",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/169"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=169"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 170,
+        "count": 1,
+        "description": "\"The taking of a regular pattern of plot or character or storyworld or narrative style or any other core component of story--any extending the pattern further. The stretch is the invention at the root of all literary wonder: the marvel that comes from stretching regular objects into metaphors, the dazzle that comes from stretching regular rhythms of speech into poetic meters, and the awe that comes from stretching regular humans into heroes\" (Fletcher 17).\r\n\r\nAlso called: metaphor, poetic meter, repetition",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/stretch\/",
+        "name": "Stretch",
+        "slug": "stretch",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/170"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=170"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 171,
+        "count": 12,
+        "description": "Revealing some part of the story, but not all of the pieces\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/suspense\/",
+        "name": "Suspense",
+        "slug": "suspense",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/171"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=171"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 172,
+        "count": 1,
+        "description": "A narration technology that encourages you to a trust a narrator who is later revealed to be untrustworthy",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/untrustworthy-narrator\/",
+        "name": "Untrustworthy Narrator",
+        "slug": "untrustworthy-narrator",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/172"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=172"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 173,
+        "count": 1,
+        "description": "Perhaps an anthology or database of reading experiences, like WonderCat :) \r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/varied-catalogue-of-rhetorical-models\/",
+        "name": "Varied Catalogue of Rhetorical Models",
+        "slug": "varied-catalogue-of-rhetorical-models",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/173"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=173"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 174,
+        "count": 12,
+        "description": "Adding an element to the story that does not fit without explanation\r\n",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/vigilance-trigger\/",
+        "name": "Vigilance Trigger",
+        "slug": "vigilance-trigger",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/174"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=174"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 175,
+        "count": 1,
+        "description": "A narration technology that positions the all-knowing narrator as one of us.",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/voice-of-you-and-me\/",
+        "name": "Voice of \"You and Me\"",
+        "slug": "voice-of-you-and-me",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/175"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=175"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 176,
+        "count": 1,
+        "description": "A plot technology that shows a character getting everything they want",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/wish-fulfillment\/",
+        "name": "Wish Fulfillment",
+        "slug": "wish-fulfillment",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/176"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=176"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 197,
+        "count": 1,
+        "description": "",
+        "link": "https:\/\/env-1120817.us.reclaim.cloud\/technology\/i-need-to-enter-something-new\/",
+        "name": "xxx-I need to enter something new",
+        "slug": "i-need-to-enter-something-new",
+        "taxonomy": "technology",
+        "meta": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology\/197"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/technology"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/taxonomies\/technology"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https:\/\/env-1120817.us.reclaim.cloud\/wp-json\/wp\/v2\/user-experience?technology=197"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
